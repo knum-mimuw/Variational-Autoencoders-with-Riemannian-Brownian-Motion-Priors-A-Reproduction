@@ -1,0 +1,12 @@
+data/
+saved_models/
+*.egg-info
+*dist/
+.DS_store
+*vscode/
+__pycache__/
+comp_test.py
+examples/
+eval/
+paper/
+*.pt
