@@ -1,11 +1,11 @@
-This an adaptation of the Variational Autoencoders with Riemannian Brownian Motion Priors paper. We provide below the content of the original README.md. 
+This an adaptation of the Variational Autoencoders with Riemannian Brownian Motion Priors paper. We provide below the content of the original README.md. You may find the reproduction paper int the "Variational-Autoencoders-with-Riemannian-Brownian-Motion-Priors-A-Reproduction.pdf" file.
 
 ---
 
 # Variational Autoencoders with Riemannian Brownian Motion Priors
 <p float="left">
   <img src="./moons_density.png" height="200" />
-  <img src="/mnist_toy_density.png" height="205" /> 
+  <img src="./mnist_toy_density.png" height="205" /> 
 </p>
 
 
